@@ -15,7 +15,7 @@
     .skillBar > div {
     color:white !important;
     padding: 10px; 
-    font-size: 18px;
+    font-size: 14px;
     }
     /******** HTML ******/
     #HTML {
@@ -54,35 +54,35 @@
         width: 95%}
     }
     /******** CSS ******/
-    #CSS {
+    #JSFRAMWORK {
         width: 90%;
-        animation: Animate-CSS 4s;
-        -webkit-animation: Animate-CSS 4s;
-        -moz-animation: Animate-CSS 4s;
-        -o-animation: Animate-CSS 4s;
+        animation: Animate-JSFRAMWORK 4s;
+        -webkit-animation: Animate-JSFRAMWORK 4s;
+        -moz-animation: Animate-JSFRAMWORK 4s;
+        -o-animation: Animate-JSFRAMWORK 4s;
         height: 50px;
         position: absolute;
         background-color: #bb270d; 
     }
-    @keyframes Animate-CSS {
+    @keyframes Animate-JSFRAMWORK {
         from {
         width: 10px;
     }
     to {
         width: 90%}
-    }@-webkit-keyframes Animate-CSS {
+    }@-webkit-keyframes Animate-JSFRAMWORK {
         from {
         width: 10px;
     }
     to {
         width: 90%}
-    }@-moz-keyframes Animate-CSS {
+    }@-moz-keyframes Animate-JSFRAMWORK {
         from {
         width: 10px;
     }
     to {
         width: 90%}
-    }@-o-keyframes Animate-CSS {
+    }@-o-keyframes Animate-JSFRAMWORK {
         from {
         width: 10px;
     }
@@ -125,4 +125,255 @@
     to {
         width: 80%}
     }
-    
+    /******** AUTOMATION ******/
+    #AUTOMATION {
+        width: 40%;
+        animation: Animate-AUTOMATION 4s;
+        -webkit-animation: Animate-AUTOMATION 4s;
+        -moz-animation: Animate-AUTOMATION 4s;
+        -o-animation: Animate-AUTOMATION 4s;
+        height: 50px;
+        position: absolute;
+        background-color: #68c7ec;  
+    }
+    @keyframes Animate-AUTOMATION {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 40%}
+    }@-webkit-keyframes Animate-AUTOMATION {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 40%}
+    }@-moz-keyframes Animate-AUTOMATION {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 40%}
+    }@-o-keyframes Animate-AUTOMATION {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 40%}
+    }
+    /******** CMS ******/
+    #CMS {
+        width: 70%;
+        animation: Animate-CMS 4s;
+        -webkit-animation: Animate-CMS 4s;
+        -moz-animation: Animate-CMS 4s;
+        -o-animation: Animate-CMS 4s;
+        height: 50px;
+        position: absolute;
+        background-color: #8179c1;  
+    }
+    @keyframes Animate-CMS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 70%}
+    }@-webkit-keyframes Animate-CMS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 70%}
+    }@-moz-keyframes Animate-CMS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 70%}
+    }@-o-keyframes Animate-CMS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 70%}
+    }
+    /******** PHP ******/
+    #PHP {
+        width: 90%;
+        animation: Animate-PHP 4s;
+        -webkit-animation: Animate-PHP 4s;
+        -moz-animation: Animate-PHP 4s;
+        -o-animation: Animate-PHP 4s;
+        height: 50px;
+        position: absolute;
+        background-color: #494191;  
+    }
+    @keyframes Animate-PHP {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 90%}
+    }@-webkit-keyframes Animate-PHP {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 90%}
+    }@-moz-keyframes Animate-PHP {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 90%}
+    }@-o-keyframes Animate-PHP {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 90%}
+    }
+    /******** SQL ******/
+    #SQL {
+        width: 85%;
+        animation: Animate-SQL 4s;
+        -webkit-animation: Animate-SQL 4s;
+        -moz-animation: Animate-SQL 4s;
+        -o-animation: Animate-SQL 4s;
+        height: 50px;
+        position: absolute;
+        background-color: #76aa71;  
+    }
+    @keyframes Animate-SQL {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 85%}
+    }@-webkit-keyframes Animate-SQL {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 85%}
+    }@-moz-keyframes Animate-SQL {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 85%}
+    }@-o-keyframes Animate-SQL {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 85%}
+    }
+    /******** OTHERPROG ******/
+    #OTHERPROG {
+        width: 20%;
+        animation: Animate-OTHERPROG 4s;
+        -webkit-animation: Animate-OTHERPROG 4s;
+        -moz-animation: Animate-OTHERPROG 4s;
+        -o-animation: Animate-OTHERPROG 4s;
+        height: 50px;
+        position: absolute;
+        background-color: #f0bf4a;  
+    }
+    @keyframes Animate-OTHERPROG {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 20%}
+    }@-webkit-keyframes Animate-OTHERPROG {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 20%}
+    }@-moz-keyframes Animate-OTHERPROG {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 20%}
+    }@-o-keyframes Animate-OTHERPROG {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 20%}
+    }
+    /******** DEVOPS ******/
+    #DEVOPS {
+        width: 70%;
+        animation: Animate-DEVOPS 4s;
+        -webkit-animation: Animate-DEVOPS 4s;
+        -moz-animation: Animate-DEVOPS 4s;
+        -o-animation: Animate-DEVOPS 4s;
+        height: 50px;
+        position: absolute;
+        background-color: #463e3d;  
+    }
+    @keyframes Animate-DEVOPS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 70%}
+    }@-webkit-keyframes Animate-DEVOPS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 70%}
+    }@-moz-keyframes Animate-DEVOPS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 70%}
+    }@-o-keyframes Animate-DEVOPS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 70%}
+    }
+    /******** SERVER ******/
+    #SERVER {
+        width: 80%;
+        animation: Animate-SERVER 4s;
+        -webkit-animation: Animate-SERVER 4s;
+        -moz-animation: Animate-SERVER 4s;
+        -o-animation: Animate-SERVER 4s;
+        height: 50px;
+        position: absolute;
+        background-color: #91a8ff;  
+    }
+    @keyframes Animate-SERVER {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 80%}
+    }@-webkit-keyframes Animate-SERVER {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 80%}
+    }@-moz-keyframes Animate-SERVER {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 80%}
+    }@-o-keyframes Animate-SERVER {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 80%}
+    }
