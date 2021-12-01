@@ -1,0 +1,128 @@
+.skillBOX{
+    width: 50%;
+    padding: 10px;
+}
+#skills {
+    font-size: 20px;
+    height: auto;
+    }
+    .skillBar {
+    height: 50px;
+    position: relative;
+    background: rgba(17, 17, 17, .3);
+    margin: 20px auto;
+    }
+    .skillBar > div {
+    color:white !important;
+    padding: 10px; 
+    font-size: 18px;
+    }
+    /******** HTML ******/
+    #HTML {
+        width: 95%;
+        animation: Animate-HTML 4s;
+        -webkit-animation: Animate-HTML 4s;
+        -moz-animation: Animate-HTML 4s;
+        -o-animation: Animate-HTML 4s;
+        height: 50px;
+        position: absolute;
+        background-color: #ea8564;
+    }
+    @keyframes Animate-HTML {
+        from {
+        width: 10px;
+    }
+    to {
+        width:95%}
+    }@-webkit-keyframes Animate-HTML {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 95%}
+    }@-moz-keyframes Animate-HTML {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 95%}
+    }@-o-keyframes Animate-HTML {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 95%}
+    }
+    /******** CSS ******/
+    #CSS {
+        width: 90%;
+        animation: Animate-CSS 4s;
+        -webkit-animation: Animate-CSS 4s;
+        -moz-animation: Animate-CSS 4s;
+        -o-animation: Animate-CSS 4s;
+        height: 50px;
+        position: absolute;
+        background-color: #bb270d; 
+    }
+    @keyframes Animate-CSS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 90%}
+    }@-webkit-keyframes Animate-CSS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 90%}
+    }@-moz-keyframes Animate-CSS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 90%}
+    }@-o-keyframes Animate-CSS {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 90%}
+    }
+    /******** JSBUNDLE ******/
+    #JSBUNDLE {
+        width: 80%;
+        animation: Animate-JSBUNDLE 4s;
+        -webkit-animation: Animate-JSBUNDLE 4s;
+        -moz-animation: Animate-JSBUNDLE 4s;
+        -o-animation: Animate-JSBUNDLE 4s;
+        height: 50px;
+        position: absolute;
+        background-color: #3722f1;  
+    }
+    @keyframes Animate-JSBUNDLE {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 80%}
+    }@-webkit-keyframes Animate-JSBUNDLE {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 80%}
+    }@-moz-keyframes Animate-JSBUNDLE {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 80%}
+    }@-o-keyframes Animate-JSBUNDLE {
+        from {
+        width: 10px;
+    }
+    to {
+        width: 80%}
+    }
+    
