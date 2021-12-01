@@ -377,3 +377,10 @@
     to {
         width: 80%}
     }
+    /**  for mobile version **/
+    @media (max-width: 600px) {
+        .skillBOX
+        {
+            width: 100%  !important;
+        }
+    }
